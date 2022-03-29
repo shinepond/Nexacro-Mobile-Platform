@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FDL version="2.1">
+  <Form id="Form_Work" width="480" height="768" titletext="Form_Work" background="#ffccdf">
+    <Layouts>
+      <Layout width="480" height="768" screenid="Phone_screen"/>
+    </Layouts>
+  </Form>
+</FDL>
